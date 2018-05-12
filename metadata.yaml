@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19070#Both-Sides-the-Border--A-Tale-of-Hotspur-and-Glendower
 gutenberg_bookshelf:
 - Children's Fiction
 - Historical Fiction
